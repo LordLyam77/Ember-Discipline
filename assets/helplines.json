@@ -1,0 +1,32 @@
+[
+  {
+    "country": "International / US",
+    "name": "Suicide & Crisis Lifeline",
+    "phone": "988",
+    "note": "Free, confidential 24/7 support for people in distress."
+  },
+  {
+    "country": "International / US",
+    "name": "SAMHSA National Helpline",
+    "phone": "1-800-662-4357",
+    "note": "Treatment referral and information for mental health & substance use."
+  },
+  {
+    "country": "United Kingdom",
+    "name": "Samaritans UK",
+    "phone": "116 123",
+    "note": "24/7 free emotional support helpline."
+  },
+  {
+    "country": "Canada",
+    "name": "Talk Suicide Canada",
+    "phone": "1-833-456-4566",
+    "note": "24/7 national suicide prevention service."
+  },
+  {
+    "country": "Australia",
+    "name": "Lifeline Australia",
+    "phone": "13 11 14",
+    "note": "24-hour crisis support and suicide prevention."
+  }
+]
